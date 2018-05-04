@@ -1,0 +1,7 @@
+               Saghy               Andrea 70 178 42.0          halado 2012 12  1  2012 12 10  BASCH
+                Kiss                Pisti 75 178 44.0     kozephalado 2016 11 20  2016 11 25  BASCH
+              Kovacs                 Bela 80 180 45.0           kezdo 2016 12 28  2017  1  5  BBARR
+             Horvath                Peter 70 182 44.0           kezdo 2016 11 30  2016 12  7  BBLUN
+                Nagy               Andrea 65 170 38.0     kozephalado 2017  1 10  2017  1 17  BCHIC
+             Horvath                  Eva 45 151 37.0     kozephalado 2016 11  2  2016 11 10  BASCH
+                   C                    D 75 170 42.0          halado 2016 12 25  2017  1  3  LJAMI
